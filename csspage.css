@@ -1,0 +1,27 @@
+/* Photographer section */
+
+.photographer {
+    width: 60em;
+    margin: 0 auto;
+    clear: left;
+    overflow: hidden;
+    border-top: 1px solid white;
+    padding-top: 3em;
+}
+
+.photographer > div {
+    float: left;
+    margin-left:1em;
+}
+
+.photographer * img  {
+    width: 13em;
+}
+
+.photographer > h1 {
+    color: #666;
+    font-size: 1.2em;
+    text-align: center;
+
+    font-style: italic;
+}
